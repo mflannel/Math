@@ -1,0 +1,3 @@
+/Users/nick/Desktop/Math/cmake-build-debug/CMakeFiles/Math.dir
+/Users/nick/Desktop/Math/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nick/Desktop/Math/cmake-build-debug/CMakeFiles/rebuild_cache.dir
